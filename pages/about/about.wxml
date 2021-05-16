@@ -1,0 +1,15 @@
+<loading hidden="{{loadingHide}}">
+  {{loadingText}}
+</loading>
+<!--pages/view/view.wxml-->
+<view class="viewNr">
+<text>
+方得小程序是一款致力于服务大学生校园生活便利的校园失物招领小程序。
+</text>
+<text>
+小程序能让大学生在校园生活中能最快的找到丢失物品以及寻找到物品的主人公。
+</text>
+<text> 
+方得旨在提高校园寻找物品，所属物品主人的效率，提升校园更好的服务，来推进校园的和谐美好建设。
+</text>
+</view>
